@@ -1,6 +1,43 @@
 body {
-  padding-top: 50px;
+  padding-top: 47px;
+  font-family: 'Open Sans', sans-serif;
 }
 .starter-template {
   text-align: center;
+}
+
+.well.top {
+  background-color: #E6E8FC
+}
+
+.fa-diamond {
+  font-size: 3em;
+}
+
+.p {
+  text-align: justify;
+}
+.glyphicon-envelope {
+    font-size: 3em;
+}
+
+.navbar {
+  background-color: #D1D6F6;
+  border: 0px  
+}
+
+.nav>li>a:focus {
+  text-decoration: none;
+  background-color: #E6E8FC;
+}
+
+.navbar-brand:hover {
+  text-decoration: none;
+  color: white
+}
+
+.nav>li>a:hover {
+  text-decoration: none;
+  background-color: #E6E8FC;
+  color: white
 }
